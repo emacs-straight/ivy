@@ -1,2 +1,2 @@
-;; Generated package description from ivy.el  -*- mode: lisp-data; no-byte-compile: t -*-
-(define-package "ivy" "0.15.0.0.20250225.83943" "Incremental Vertical completYon" '((emacs "24.5")) :commit "c691144be632879279c6c19910882078deb1da38" :authors '(("Oleh Krehel" . "ohwoeowho@gmail.com")) :maintainer '("Basil L. Contovounesios" . "basil@contovou.net") :keywords '("matching") :url "https://github.com/abo-abo/swiper")
+;; Generated package description from .el  -*- ivyno-byte-compile: t -*-
+(define-package "ivy" "0.15.0.0.20250320.224909" "Incremental Vertical completYon" '((emacs "24.5")) :commit "dda3649f70f6b8eb00efd085d2edf956538c3d80" :authors '(("Oleh Krehel" . "ohwoeowho@gmail.com")) :maintainer '("Basil L. Contovounesios" . "basil@contovou.net") :keywords '("matching") :url "https://github.com/abo-abo/swiper")
