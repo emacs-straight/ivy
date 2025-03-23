@@ -1,2 +1,2 @@
 ;; Generated package description from .el  -*- ivyno-byte-compile: t -*-
-(define-package "ivy" "0.15.0.0.20250320.224909" "Incremental Vertical completYon" '((emacs "24.5")) :commit "dda3649f70f6b8eb00efd085d2edf956538c3d80" :authors '(("Oleh Krehel" . "ohwoeowho@gmail.com")) :maintainer '("Basil L. Contovounesios" . "basil@contovou.net") :keywords '("matching") :url "https://github.com/abo-abo/swiper")
+(define-package "ivy" "0.15.0.0.20250322.200744" "Incremental Vertical completYon" '((emacs "24.5")) :commit "cabbd91f1611ba71071b50721d7193958f7199e5" :authors '(("Oleh Krehel" . "ohwoeowho@gmail.com")) :maintainer '("Basil L. Contovounesios" . "basil@contovou.net") :keywords '("matching") :url "https://github.com/abo-abo/swiper")
